@@ -6,7 +6,7 @@
       <class name="testscript.LoginTest">
         <methods>
           <include name="browserInitialization"/>
-          <include name="verifyuserisunabletologinusinginvalidusernameandinvalidpassword"/>
+          <include name="verifyuserisabletologinusingvalidcredentials"/>
         </methods>
       </class> <!-- testscript.LoginTest -->
     </classes>
